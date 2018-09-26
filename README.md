@@ -14,7 +14,7 @@ Electron `npm i -D electron@latest`
 
 ### Installing
 
-`electron-packager InstallDolphin InstallDolphin --platform=darwin`
-                    Folder Path
+`electron-packager InstallDolphinFolderPath InstallDolphin --platform=darwin`
+                   
                     
 # THIS IS MAC OSX ONLY!
